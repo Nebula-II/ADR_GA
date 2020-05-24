@@ -12,6 +12,6 @@ Some reference to the theory behind the code:
 3.https://www.researchgate.net/publication/2799622_Feature_Selection_Methods_Genetic_Algorithms_vs_Greedy-like_Search
 
 
-#Run the project
+# Run the project
 
 Pull the repository and open jupyter notebook in the same folder containing the notebook and the data.
